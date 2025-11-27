@@ -56,11 +56,12 @@ m = length of secondary winding (= 10 mm)
 ## Output waveforms:
 
 
+<img width="734" height="670" alt="Screenshot 2025-11-27 184019" src="https://github.com/user-attachments/assets/0b860536-e980-4c28-ae32-92552b92c08e" />
 
 
 
 
 ## Result:
-
+Thus we Measured the Displacement using LVDT
 
 
