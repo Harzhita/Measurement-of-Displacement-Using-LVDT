@@ -55,7 +55,8 @@ m = length of secondary winding (= 10 mm)
 
 ## Output waveforms:
 
-<img width="785" height="627" alt="Screenshot 2025-09-23 160908" src="https://github.com/user-attachments/assets/87c5e1f6-b277-4a81-95be-2a041a46b3d0" />
+<img width="734" height="670" alt="Screenshot 2025-11-27 184019" src="https://github.com/user-attachments/assets/9d6aaf71-b526-4865-9077-36d3de6e630a" />
+
 
 
 
